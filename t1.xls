@@ -1,0 +1,550 @@
+
+
+Data by year (aggregated again!)
+
+<table x:str border=0 cellpadding=0 cellspacing=0 width=256 style='border-collapse:
+ collapse;table-layout:fixed;width:192pt'>
+ <col width=64 span=4 style='width:48pt'>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 width=64 style='height:12.75pt;width:48pt'>Year</td>
+  <td class=xl1512983 width=64 style='width:48pt'>Whites</td>
+  <td class=xl1512983 width=64 style='width:48pt'>Blacks</td>
+  <td class=xl1512983 width=64 style='width:48pt'>Total</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1882</td>
+  <td class=xl1512983 align=right x:num>64</td>
+  <td class=xl1512983 align=right x:num>49</td>
+  <td class=xl1512983 align=right x:num>113</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1883</td>
+  <td class=xl1512983 align=right x:num>77</td>
+  <td class=xl1512983 align=right x:num>53</td>
+  <td class=xl1512983 align=right x:num>130</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1884</td>
+  <td class=xl1512983 align=right x:num>160</td>
+  <td class=xl1512983 align=right x:num>51</td>
+  <td class=xl1512983 align=right x:num>211</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1885</td>
+  <td class=xl1512983 align=right x:num>110</td>
+  <td class=xl1512983 align=right x:num>74</td>
+  <td class=xl1512983 align=right x:num>184</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1886</td>
+  <td class=xl1512983 align=right x:num>64</td>
+  <td class=xl1512983 align=right x:num>74</td>
+  <td class=xl1512983 align=right x:num>138</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1887</td>
+  <td class=xl1512983 align=right x:num>50</td>
+  <td class=xl1512983 align=right x:num>70</td>
+  <td class=xl1512983 align=right x:num>120</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1888</td>
+  <td class=xl1512983 align=right x:num>68</td>
+  <td class=xl1512983 align=right x:num>69</td>
+  <td class=xl1512983 align=right x:num>137</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1889</td>
+  <td class=xl1512983 align=right x:num>76</td>
+  <td class=xl1512983 align=right x:num>94</td>
+  <td class=xl1512983 align=right x:num>170</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1890</td>
+  <td class=xl1512983 align=right x:num>11</td>
+  <td class=xl1512983 align=right x:num>85</td>
+  <td class=xl1512983 align=right x:num>96</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1891</td>
+  <td class=xl1512983 align=right x:num>71</td>
+  <td class=xl1512983 align=right x:num>113</td>
+  <td class=xl1512983 align=right x:num>184</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1892</td>
+  <td class=xl1512983 align=right x:num>69</td>
+  <td class=xl1512983 align=right x:num>161</td>
+  <td class=xl1512983 align=right x:num>230</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1893</td>
+  <td class=xl1512983 align=right x:num>34</td>
+  <td class=xl1512983 align=right x:num>118</td>
+  <td class=xl1512983 align=right x:num>152</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1894</td>
+  <td class=xl1512983 align=right x:num>58</td>
+  <td class=xl1512983 align=right x:num>134</td>
+  <td class=xl1512983 align=right x:num>192</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1895</td>
+  <td class=xl1512983 align=right x:num>66</td>
+  <td class=xl1512983 align=right x:num>113</td>
+  <td class=xl1512983 align=right x:num>179</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1896</td>
+  <td class=xl1512983 align=right x:num>45</td>
+  <td class=xl1512983 align=right x:num>78</td>
+  <td class=xl1512983 align=right x:num>123</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1897</td>
+  <td class=xl1512983 align=right x:num>35</td>
+  <td class=xl1512983 align=right x:num>123</td>
+  <td class=xl1512983 align=right x:num>158</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1898</td>
+  <td class=xl1512983 align=right x:num>19</td>
+  <td class=xl1512983 align=right x:num>101</td>
+  <td class=xl1512983 align=right x:num>120</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1899</td>
+  <td class=xl1512983 align=right x:num>21</td>
+  <td class=xl1512983 align=right x:num>85</td>
+  <td class=xl1512983 align=right x:num>106</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1900</td>
+  <td class=xl1512983 align=right x:num>9</td>
+  <td class=xl1512983 align=right x:num>106</td>
+  <td class=xl1512983 align=right x:num>115</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1901</td>
+  <td class=xl1512983 align=right x:num>25</td>
+  <td class=xl1512983 align=right x:num>105</td>
+  <td class=xl1512983 align=right x:num>130</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1902</td>
+  <td class=xl1512983 align=right x:num>7</td>
+  <td class=xl1512983 align=right x:num>85</td>
+  <td class=xl1512983 align=right x:num>92</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1903</td>
+  <td class=xl1512983 align=right x:num>15</td>
+  <td class=xl1512983 align=right x:num>84</td>
+  <td class=xl1512983 align=right x:num>99</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1904</td>
+  <td class=xl1512983 align=right x:num>7</td>
+  <td class=xl1512983 align=right x:num>76</td>
+  <td class=xl1512983 align=right x:num>83</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1905</td>
+  <td class=xl1512983 align=right x:num>5</td>
+  <td class=xl1512983 align=right x:num>57</td>
+  <td class=xl1512983 align=right x:num>62</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1906</td>
+  <td class=xl1512983 align=right x:num>3</td>
+  <td class=xl1512983 align=right x:num>62</td>
+  <td class=xl1512983 align=right x:num>65</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1907</td>
+  <td class=xl1512983 align=right x:num>3</td>
+  <td class=xl1512983 align=right x:num>58</td>
+  <td class=xl1512983 align=right x:num>61</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1908</td>
+  <td class=xl1512983 align=right x:num>8</td>
+  <td class=xl1512983 align=right x:num>89</td>
+  <td class=xl1512983 align=right x:num>97</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1909</td>
+  <td class=xl1512983 align=right x:num>13</td>
+  <td class=xl1512983 align=right x:num>69</td>
+  <td class=xl1512983 align=right x:num>82</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1910</td>
+  <td class=xl1512983 align=right x:num>9</td>
+  <td class=xl1512983 align=right x:num>67</td>
+  <td class=xl1512983 align=right x:num>76</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1911</td>
+  <td class=xl1512983 align=right x:num>7</td>
+  <td class=xl1512983 align=right x:num>60</td>
+  <td class=xl1512983 align=right x:num>67</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1912</td>
+  <td class=xl1512983 align=right x:num>2</td>
+  <td class=xl1512983 align=right x:num>62</td>
+  <td class=xl1512983 align=right x:num>64</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1913</td>
+  <td class=xl1512983 align=right x:num>1</td>
+  <td class=xl1512983 align=right x:num>51</td>
+  <td class=xl1512983 align=right x:num>52</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1914</td>
+  <td class=xl1512983 align=right x:num>4</td>
+  <td class=xl1512983 align=right x:num>51</td>
+  <td class=xl1512983 align=right x:num>55</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1915</td>
+  <td class=xl1512983 align=right x:num>13</td>
+  <td class=xl1512983 align=right x:num>56</td>
+  <td class=xl1512983 align=right x:num>69</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1916</td>
+  <td class=xl1512983 align=right x:num>4</td>
+  <td class=xl1512983 align=right x:num>50</td>
+  <td class=xl1512983 align=right x:num>54</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1917</td>
+  <td class=xl1512983 align=right x:num>2</td>
+  <td class=xl1512983 align=right x:num>36</td>
+  <td class=xl1512983 align=right x:num>38</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1918</td>
+  <td class=xl1512983 align=right x:num>4</td>
+  <td class=xl1512983 align=right x:num>60</td>
+  <td class=xl1512983 align=right x:num>64</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1919</td>
+  <td class=xl1512983 align=right x:num>7</td>
+  <td class=xl1512983 align=right x:num>76</td>
+  <td class=xl1512983 align=right x:num>83</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1920</td>
+  <td class=xl1512983 align=right x:num>8</td>
+  <td class=xl1512983 align=right x:num>53</td>
+  <td class=xl1512983 align=right x:num>61</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1921</td>
+  <td class=xl1512983 align=right x:num>5</td>
+  <td class=xl1512983 align=right x:num>59</td>
+  <td class=xl1512983 align=right x:num>64</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1922</td>
+  <td class=xl1512983 align=right x:num>6</td>
+  <td class=xl1512983 align=right x:num>51</td>
+  <td class=xl1512983 align=right x:num>57</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1923</td>
+  <td class=xl1512983 align=right x:num>4</td>
+  <td class=xl1512983 align=right x:num>29</td>
+  <td class=xl1512983 align=right x:num>33</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1924</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>16</td>
+  <td class=xl1512983 align=right x:num>16</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1925</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>17</td>
+  <td class=xl1512983 align=right x:num>17</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1926</td>
+  <td class=xl1512983 align=right x:num>7</td>
+  <td class=xl1512983 align=right x:num>23</td>
+  <td class=xl1512983 align=right x:num>30</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1927</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>16</td>
+  <td class=xl1512983 align=right x:num>16</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1928</td>
+  <td class=xl1512983 align=right x:num>1</td>
+  <td class=xl1512983 align=right x:num>10</td>
+  <td class=xl1512983 align=right x:num>11</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1929</td>
+  <td class=xl1512983 align=right x:num>3</td>
+  <td class=xl1512983 align=right x:num>7</td>
+  <td class=xl1512983 align=right x:num>10</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1930</td>
+  <td class=xl1512983 align=right x:num>1</td>
+  <td class=xl1512983 align=right x:num>20</td>
+  <td class=xl1512983 align=right x:num>21</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1931</td>
+  <td class=xl1512983 align=right x:num>1</td>
+  <td class=xl1512983 align=right x:num>12</td>
+  <td class=xl1512983 align=right x:num>13</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1932</td>
+  <td class=xl1512983 align=right x:num>2</td>
+  <td class=xl1512983 align=right x:num>6</td>
+  <td class=xl1512983 align=right x:num>8</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1933</td>
+  <td class=xl1512983 align=right x:num>2</td>
+  <td class=xl1512983 align=right x:num>24</td>
+  <td class=xl1512983 align=right x:num>26</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1934</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>15</td>
+  <td class=xl1512983 align=right x:num>15</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1935</td>
+  <td class=xl1512983 align=right x:num>2</td>
+  <td class=xl1512983 align=right x:num>18</td>
+  <td class=xl1512983 align=right x:num>20</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1936</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>8</td>
+  <td class=xl1512983 align=right x:num>8</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1937</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>8</td>
+  <td class=xl1512983 align=right x:num>8</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1938</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>6</td>
+  <td class=xl1512983 align=right x:num>6</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1939</td>
+  <td class=xl1512983 align=right x:num>1</td>
+  <td class=xl1512983 align=right x:num>2</td>
+  <td class=xl1512983 align=right x:num>3</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1940</td>
+  <td class=xl1512983 align=right x:num>1</td>
+  <td class=xl1512983 align=right x:num>4</td>
+  <td class=xl1512983 align=right x:num>5</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1941</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>4</td>
+  <td class=xl1512983 align=right x:num>4</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1942</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>6</td>
+  <td class=xl1512983 align=right x:num>6</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1943</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>3</td>
+  <td class=xl1512983 align=right x:num>3</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1944</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>2</td>
+  <td class=xl1512983 align=right x:num>2</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1945</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>1</td>
+  <td class=xl1512983 align=right x:num>1</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1946</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>6</td>
+  <td class=xl1512983 align=right x:num>6</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1947</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>1</td>
+  <td class=xl1512983 align=right x:num>1</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1948</td>
+  <td class=xl1512983 align=right x:num>1</td>
+  <td class=xl1512983 align=right x:num>1</td>
+  <td class=xl1512983 align=right x:num>2</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1949</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>3</td>
+  <td class=xl1512983 align=right x:num>3</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1950</td>
+  <td class=xl1512983 align=right x:num>1</td>
+  <td class=xl1512983 align=right x:num>1</td>
+  <td class=xl1512983 align=right x:num>2</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1951</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>1</td>
+  <td class=xl1512983 align=right x:num>1</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1952</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>0</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1953</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>0</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1954</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>0</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1955</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>3</td>
+  <td class=xl1512983 align=right x:num>3</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1956</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>0</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1957</td>
+  <td class=xl1512983 align=right x:num>1</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>1</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1958</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>0</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1959</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>1</td>
+  <td class=xl1512983 align=right x:num>1</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1960</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>0</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1961</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>1</td>
+  <td class=xl1512983 align=right x:num>1</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1962</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>0</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1963</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>1</td>
+  <td class=xl1512983 align=right x:num>1</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1964</td>
+  <td class=xl1512983 align=right x:num>2</td>
+  <td class=xl1512983 align=right x:num>1</td>
+  <td class=xl1512983 align=right x:num>3</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1965</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>0</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1966</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>0</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1967</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>0</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 align=right style='height:12.75pt' x:num>1968</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>0</td>
+  <td class=xl1512983 align=right x:num>0</td>
+ </tr>
+ <tr height=17 style='height:12.75pt'>
+  <td height=17 class=xl1512983 style='height:12.75pt'>Total</td>
+  <td class=xl2212983 align=right x:num="1297">1,297</td>
+  <td class=xl2212983 align=right x:num="3445">3,445</td>
+  <td class=xl2212983 align=right x:num="4742">4,742</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>

@@ -1,0 +1,707 @@
+<table x:str border=0 cellpadding=0 cellspacing=0 width=344 style='border-collapse:
+
+ collapse;table-layout:fixed;width:258pt'>
+
+ <col width=88 style='mso-width-source:userset;mso-width-alt:3218;width:66pt'>
+
+ <col width=64 span=4 style='width:48pt'>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 colspan=4 width=280 style='height:12.75pt;mso-ignore:colspan;
+
+  width:210pt'>Lynchings: By State and Race, 1882-1968 *</td>
+
+  <td width=64 style='width:48pt'></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 colspan=5 style='height:12.75pt;mso-ignore:colspan'></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 class=xl25 style='height:12.75pt'>State</td>
+
+  <td class=xl25>White</td>
+
+  <td class=xl25>Black</td>
+
+  <td class=xl25>Total</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Alabama</td>
+
+  <td align=right x:num>48</td>
+
+  <td align=right x:num>299</td>
+
+  <td align=right x:num>347</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Arizona</td>
+
+  <td align=right x:num>31</td>
+
+  <td align=right x:num>0</td>
+
+  <td align=right x:num>31</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Arkansas</td>
+
+  <td align=right x:num>58</td>
+
+  <td align=right x:num>226</td>
+
+  <td align=right x:num>284</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>California</td>
+
+  <td align=right x:num>41</td>
+
+  <td align=right x:num>2</td>
+
+  <td align=right x:num>43</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Colorado</td>
+
+  <td align=right x:num>65</td>
+
+  <td align=right x:num>3</td>
+
+  <td align=right x:num>68</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Delaware</td>
+
+  <td align=right x:num>0</td>
+
+  <td align=right x:num>1</td>
+
+  <td align=right x:num>1</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Florida</td>
+
+  <td align=right x:num>25</td>
+
+  <td align=right x:num>257</td>
+
+  <td align=right x:num>282</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Georgia</td>
+
+  <td align=right x:num>39</td>
+
+  <td align=right x:num>492</td>
+
+  <td align=right x:num>531</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Idaho</td>
+
+  <td align=right x:num>20</td>
+
+  <td align=right x:num>0</td>
+
+  <td align=right x:num>20</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Illinois</td>
+
+  <td align=right x:num>15</td>
+
+  <td align=right x:num>19</td>
+
+  <td align=right x:num>34</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Indiana</td>
+
+  <td align=right x:num>33</td>
+
+  <td align=right x:num>14</td>
+
+  <td align=right x:num>47</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Iowa</td>
+
+  <td align=right x:num>17</td>
+
+  <td align=right x:num>2</td>
+
+  <td align=right x:num>19</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Kansas</td>
+
+  <td align=right x:num>35</td>
+
+  <td align=right x:num>19</td>
+
+  <td align=right x:num>54</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Kentucky</td>
+
+  <td align=right x:num>63</td>
+
+  <td align=right x:num>142</td>
+
+  <td align=right x:num>205</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Louisiana</td>
+
+  <td align=right x:num>56</td>
+
+  <td align=right x:num>335</td>
+
+  <td align=right x:num>391</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Maine</td>
+
+  <td align=right x:num>1</td>
+
+  <td align=right x:num>0</td>
+
+  <td align=right x:num>1</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Maryland</td>
+
+  <td align=right x:num>2</td>
+
+  <td align=right x:num>27</td>
+
+  <td align=right x:num>29</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Michigan</td>
+
+  <td align=right x:num>7</td>
+
+  <td align=right x:num>1</td>
+
+  <td align=right x:num>8</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Minnesota</td>
+
+  <td align=right x:num>5</td>
+
+  <td align=right x:num>4</td>
+
+  <td align=right x:num>9</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Mississippi</td>
+
+  <td align=right x:num>42</td>
+
+  <td align=right x:num>539</td>
+
+  <td align=right x:num>581</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Missouri</td>
+
+  <td align=right x:num>53</td>
+
+  <td align=right x:num>69</td>
+
+  <td align=right x:num>122</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Montana</td>
+
+  <td align=right x:num>82</td>
+
+  <td align=right x:num>2</td>
+
+  <td align=right x:num>84</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Nebraska</td>
+
+  <td align=right x:num>52</td>
+
+  <td align=right x:num>5</td>
+
+  <td align=right x:num>57</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Nevada</td>
+
+  <td align=right x:num>6</td>
+
+  <td align=right x:num>0</td>
+
+  <td align=right x:num>6</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>New Jersey</td>
+
+  <td align=right x:num>1</td>
+
+  <td align=right x:num>1</td>
+
+  <td align=right x:num>2</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>New Mexico</td>
+
+  <td align=right x:num>33</td>
+
+  <td align=right x:num>3</td>
+
+  <td align=right x:num>36</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>New York</td>
+
+  <td align=right x:num>1</td>
+
+  <td align=right x:num>1</td>
+
+  <td align=right x:num>2</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>North Carolina</td>
+
+  <td align=right x:num>15</td>
+
+  <td align=right x:num>86</td>
+
+  <td align=right x:num>101</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>North Dakota</td>
+
+  <td align=right x:num>13</td>
+
+  <td align=right x:num>3</td>
+
+  <td align=right x:num>16</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Ohio</td>
+
+  <td align=right x:num>10</td>
+
+  <td align=right x:num>16</td>
+
+  <td align=right x:num>26</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Oklahoma</td>
+
+  <td align=right x:num>82</td>
+
+  <td align=right x:num>40</td>
+
+  <td align=right x:num>122</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Oregon</td>
+
+  <td align=right x:num>20</td>
+
+  <td align=right x:num>1</td>
+
+  <td align=right x:num>21</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Pennsylvania</td>
+
+  <td align=right x:num>2</td>
+
+  <td align=right x:num>6</td>
+
+  <td align=right x:num>8</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>South Carolina</td>
+
+  <td align=right x:num>4</td>
+
+  <td align=right x:num>156</td>
+
+  <td align=right x:num>160</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>South Dakota</td>
+
+  <td align=right x:num>27</td>
+
+  <td align=right x:num>0</td>
+
+  <td align=right x:num>27</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Tennessee</td>
+
+  <td align=right x:num>47</td>
+
+  <td align=right x:num>204</td>
+
+  <td align=right x:num>251</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Texas</td>
+
+  <td align=right x:num>141</td>
+
+  <td align=right x:num>352</td>
+
+  <td align=right x:num>493</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Utah</td>
+
+  <td align=right x:num>6</td>
+
+  <td align=right x:num>2</td>
+
+  <td align=right x:num>8</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Vermont</td>
+
+  <td align=right x:num>1</td>
+
+  <td align=right x:num>0</td>
+
+  <td align=right x:num>1</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Virginia</td>
+
+  <td align=right x:num>17</td>
+
+  <td align=right x:num>83</td>
+
+  <td align=right x:num>100</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Washington</td>
+
+  <td align=right x:num>25</td>
+
+  <td align=right x:num>1</td>
+
+  <td align=right x:num>26</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>West Virginia</td>
+
+  <td align=right x:num>20</td>
+
+  <td align=right x:num>28</td>
+
+  <td align=right x:num>48</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Wisconsin</td>
+
+  <td align=right x:num>6</td>
+
+  <td align=right x:num>0</td>
+
+  <td align=right x:num>6</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Wyoming</td>
+
+  <td align=right x:num>30</td>
+
+  <td align=right x:num>5</td>
+
+  <td align=right x:num>35</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt'>Total</td>
+
+  <td class=xl24 align=right x:num="1297">1,297</td>
+
+  <td class=xl24 align=right x:num="3446">3,446</td>
+
+  <td class=xl24 align=right x:num="4743">4,743</td>
+
+  <td></td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 colspan=5 style='height:12.75pt;mso-ignore:colspan'>*Statistics
+
+  provided<span style='mso-spacerun:yes'>  </span>by the Archives at Tuskegee
+
+  Institute.</td>
+
+ </tr>
+
+ <tr height=17 style='height:12.75pt'>
+
+  <td height=17 style='height:12.75pt' x:str="  "><span
+
+  style='mso-spacerun:yes'>  </span></td>
+
+  <td colspan=4 style='mso-ignore:colspan'></td>
+
+ </tr>
+
+ <![if supportMisalignedColumns]>
+
+ <tr height=0 style='display:none'>
+
+  <td width=88 style='width:66pt'></td>
+
+  <td width=64 style='width:48pt'></td>
+
+  <td width=64 style='width:48pt'></td>
+
+  <td width=64 style='width:48pt'></td>
+
+  <td width=64 style='width:48pt'></td>
+
+ </tr>
+
+ <![endif]>
+
+</table>
