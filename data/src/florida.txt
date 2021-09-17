@@ -1,0 +1,49 @@
+Florida;Alachua;18
+Florida;Bradford;5
+Florida;Calhoun;4
+Florida;Clay;1
+Florida;DeSoto;3
+Florida;Franklin;2
+Florida;Hardee;1
+Florida;Hillsborough;5
+Florida;Jefferson;1
+Florida;Lee;2
+Florida;Liberty;1
+Florida;Marion;19
+Florida;Palm Beach;2
+Florida;Polk;20
+Florida;Seminole;2
+Florida;Suwannee;12
+Florida;Baker;7
+Florida;Brevard;1
+Florida;Charlotte;1
+Florida;Collier;1
+Florida;Duval;7
+Florida;Gadsden;4
+Florida;Hendry;1
+Florida;Holmes;7
+Florida;Bay;2
+Florida;Broward;1
+Florida;Citrus;7
+Florida;Columbia;20
+Florida;Escambia;6
+Florida;Hamilton;6
+Florida;Hernando;13
+Florida;Jackson; 9
+Florida;Lake; 4
+Florida;Levy; 8
+Florida;Manatee; 6
+Florida;Orange; 33
+Florida;Pinellas; 2
+Florida;Santa Rosa; 3
+Florida;Sumter; 3
+Florida;Volusia; 5
+Florida;Lafayette; 13
+Florida;Leon; 4
+Florida;Madison; 14
+Florida;Miami-Dade; 3
+Florida;Pasco; 6
+Florida;Putnam; 3
+Florida;St. Johns; 1
+Florida;Taylor; 15
+                    
