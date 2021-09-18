@@ -1,0 +1,62 @@
+Virginia;Accomack;1
+Virginia;AlexandriaCity;2
+Virginia;Alleghany;3
+Virginia;Amelia;1
+Virginia;Amherst;2
+Virginia;Bath;1
+Virginia;Bland;1
+Virginia;Brunswick;2
+Virginia;Campbell;1
+Virginia;CharlesCity;1
+Virginia;Charlotte;2
+Virginia;Charlottesville City;1
+Virginia;Culpeper;2
+Virginia;DanvilleCity;5
+Virginia;Dinwiddie;1
+Virginia;Essex;1
+Virginia;Fauquier;2
+Virginia;Fluvanna;1
+Virginia;Franklin;1
+Virginia;Frederick;1
+Virginia;Halifax;3
+Virginia;Henry;1
+Virginia;King and Queen;1
+Virginia;King William;1
+Virginia;Loudoun;3
+Virginia;Louisa;1
+Virginia;Mecklenburg;2
+Virginia;Nelson;2
+Virginia;Newport News City;3
+Virginia;Norfolk City;1
+Virginia;Northumberland;1
+Virginia;Nottoway;2
+Virginia;Page;2
+Virginia;Pittsylvania;1
+Virginia;Prince Edward;1
+Virginia;Prince George;1
+Virginia;Rappahannock;1
+Virginia;Roanoke;2
+Virginia;Rockingham;1
+Virginia;Russell;3
+Virginia;Scott;1
+Virginia;Smyth;1
+Virginia;Surry;1
+Virginia;Sussex;2
+Virginia;Tazewell;7
+Virginia;Virginia Beach City;1
+Virginia;Wise;3
+Virginia;Wythe;3
+West Virginia;Berkeley;1 
+West Virginia;Braxton;1 
+West Virginia;Cabell; 1 
+West Virginia;Fayette; 3 
+West Virginia;Greenbrier;3 
+West Virginia;Lewis;1 
+West Virginia;Logan;2 
+West Virginia;McDowell;4 
+West Virginia;Mercer;10 
+West Virginia;Mingo;1 
+West Virginia;Putnam;1 
+West Virginia;Randolph;4 
+West Virginia;Summers;1 
+West Virginia;Wetzel;3 
