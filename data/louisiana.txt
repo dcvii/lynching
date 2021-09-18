@@ -1,0 +1,57 @@
+Louisiana;Acadia;1
+Louisiana;Allen;2
+Louisiana;Ascension;1
+Louisiana;Assumption;3
+Louisiana;Avoyelles;4
+Louisiana;Bienville;10
+Louisiana;Bossier;26
+Louisiana;Caddo;48
+Louisiana;Calcasieu;4
+Louisiana;Caldwell;5
+Louisiana;Catahoula;8
+Louisiana;Claiborne;10
+Louisiana;Concordia;16
+Louisiana;DeSoto;4
+Louisiana;East Baton Rouge;2
+Louisiana;East Feliciana;6
+Louisiana;Evangeline;5
+Louisiana;Franklin;6
+Louisiana;Grant;6
+Louisiana;Iberia;26
+Louisiana;Iberville;9
+Louisiana;Jackson;4
+Louisiana;Jefferson;11
+Louisiana;Jefferson Davis;3
+Louisiana;Lafayette;6
+Louisiana;Lafourche;52
+Louisiana;Lincoln;8
+Louisiana;Livingston;2
+Louisiana;Madison;12
+Louisiana;Morehouse;16
+Louisiana;Natchitoches;2
+Louisiana;Orleans;15
+Louisiana;Ouachita;38
+Louisiana;Plaquemines;1
+Louisiana;Pointe Coupee;11
+Louisiana;Rapides;10
+Louisiana;Red River;2
+Louisiana;Richland;13
+Louisiana;Sabine;1
+Louisiana;St. Bernard;3
+Louisiana;St. Charles;3
+Louisiana;St. Helena;3
+Louisiana;St. James;6
+Louisiana;St. John the Baptist;4
+Louisiana;St. Landry;8
+Louisiana;St. Martin;2
+Louisiana;St. Mary;4
+Louisiana;St. Tammany;8
+Louisiana;Tangipahoa;24
+Louisiana;Tensas;29
+Louisiana;Union;5
+Louisiana;Washington;12
+Louisiana;Webster;9
+Louisiana;West Baton Rouge;3
+Louisiana;West Carroll;9
+Louisiana;West Feliciana;7
+Louisiana;Winn;1

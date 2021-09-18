@@ -1,0 +1,96 @@
+Maryland;Allegany;1
+Maryland;Anne Arundel;4
+Maryland;Baltimore;1
+Maryland;Calvert;1
+Maryland;Carroll;1
+Maryland;Frederick;3
+Maryland;Harford;1
+Maryland;Howard;2
+Maryland;Kent;1
+Maryland;Montgomery;3
+Maryland;Prince George’s;2
+Maryland;Queen Anne’s;1
+Maryland;Somerset;4
+Maryland;St. Mary’s;1
+Maryland;Wicomico;3
+Michigan;St. Clair;1
+Minnesota;St. Louis;3
+Mississippi;Adams;3
+Mississippi;Alcorn;5
+Mississippi;Amite;14
+Mississippi;Attala;5
+Mississippi;Benton;3
+Mississippi;Bolivar;13
+Mississippi;Calhoun;2
+Mississippi;Carroll;29
+Mississippi;Chickasaw;6
+Mississippi;Claiborne;4
+Mississippi;Clarke;10
+Mississippi;Clay;8
+Mississippi;Coahoma;13
+Mississippi;Copiah;10
+Mississippi;DeSoto;10
+Mississippi;Forrest;9
+Mississippi;Franklin;13
+Mississippi;George;2
+Mississippi;Greene;1
+Mississippi;Grenada;7
+Mississippi;Hancock;2
+Mississippi;Harrison;10
+Mississippi;Hinds;22
+Mississippi;Holmes;11
+Mississippi;Humphreys;10
+Mississippi;Issaquena;6
+Mississippi;Itawamba;1
+Mississippi;Jackson;8
+Mississippi;Jefferson;4
+Mississippi;Jefferson Davis;1
+Mississippi;Jones;5
+Mississippi;Kemper;24
+Mississippi;Lafayette;7
+Mississippi;Lamar;1
+Mississippi;Lauderdale;16
+Mississippi;Lawrence;6
+Mississippi;Leake;2
+Mississippi;Lee;2
+Mississippi;Leflore;48
+Mississippi;Lincoln;10
+Mississippi;Lowndes;20
+Mississippi;Madison;7
+Mississippi;Marion;2
+Mississippi;Marshall;4
+Mississippi;Monroe;14
+Mississippi;Montgomery;9
+Mississippi;Neshoba;5
+Mississippi;Newton;6
+Mississippi;Noxubee;10
+Mississippi;Oktibbeha;6
+Mississippi;Panola;4
+Mississippi;Pearl River;3
+Mississippi;Perry;2
+Mississippi;Pike;13
+Mississippi;Pontotoc;1
+Mississippi;Prentiss;1
+Mississippi;Quitman;9
+Mississippi;Rankin;9
+Mississippi;Scott;13
+Mississippi;Sharkey;6
+Mississippi;Simpson;8
+Mississippi;Smith;8
+Mississippi;Stone;7
+Mississippi;Sunflower;12
+Mississippi;Tallahatchie;12
+Mississippi;Tate;9
+Mississippi;Tishomingo;4
+Mississippi;Tunica;10
+Mississippi;Union;1
+Mississippi;Walthall;4
+Mississippi;Warren;14
+Mississippi;Washington;13
+Mississippi;Wayne;1
+Mississippi;Webster;2
+Mississippi;Wilkinson;9
+Mississippi;Winston;11
+Mississippi;Yalobusha;4
+Mississippi;Yazoo;18
+
