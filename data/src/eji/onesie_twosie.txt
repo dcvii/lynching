@@ -1,0 +1,25 @@
+California;Kern;2
+Colorado;Lincoln;1
+Colorado;Otero;1
+Colorado;Pueblo;1
+Colorado;San Juan;1
+Colorado;Ouray;1
+Delaware;New Castle;1
+Michigan;St. Claire;1
+Minnesota;St. Louis;3
+Montana;Cascade;1
+Nebraska;Cherry;1
+Nebraska;Douglas;2
+Nebraska;Otoe;2
+New Jersey;Monmouth;1
+New York;Orange;1
+North Dakota;Grand Forks;1
+Oregon;Coos;1
+Pennsylvania;Chester;1
+Pennsylvania;Monroe;1
+South Dakota;Meade;1
+Utah;Carbon;1
+WashingtonDC;WashingtonDC;3
+Wyoming;Albany;1
+Wyoming;Goshen;1
+Wyoming;Sweetwater;2

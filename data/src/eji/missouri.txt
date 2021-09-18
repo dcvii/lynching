@@ -1,0 +1,32 @@
+Missouri;Barry;1
+Missouri;Bates;1
+Missouri;Boone;2
+Missouri;Buchanan;1
+Missouri;Butler;2
+Missouri;Callaway;4
+Missouri;Cape Girardeau;1
+Missouri;Clay;2
+Missouri;Clinton;1
+Missouri;Franklin;1
+Missouri;Greene;3
+Missouri;Howard;5
+Missouri;Iron;1
+Missouri;Jackson;1
+Missouri;Jasper;1
+Missouri;Lafayette;2
+Missouri;Lawrence;3
+Missouri;Macon;2
+Missouri;Mississippi;4
+Missouri;New Madrid;2
+Missouri;Nodaway;1
+Missouri;Pemiscot;3
+Missouri;Pike;5
+Missouri;Platte;1
+Missouri;Ralls;1
+Missouri;Randolph;3
+Missouri;Ray;1
+Missouri;Reynolds;1
+Missouri;Saline;1
+Missouri;Scott;1
+Missouri;St. Louis;1
+Missouri;Wayne;1
